@@ -41,3 +41,14 @@ app.*.map.json
 
 # Exceptions to above rules.
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+__MACOSX/._fonts
+__MACOSX/fonts/._Raleway-Black.ttf
+__MACOSX/fonts/._Raleway-Bold.ttf
+__MACOSX/fonts/._Raleway-Regular.ttf
+__MACOSX/fonts/._RobotoCondensed-Bold.ttf
+__MACOSX/fonts/._RobotoCondensed-Italic.ttf
+__MACOSX/fonts/._RobotoCondensed-Light.ttf
+__MACOSX/fonts/._RobotoCondensed-Regular.ttf
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
